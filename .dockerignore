@@ -1,0 +1,5 @@
+# Tidak perlu memasukkan direktori dan file berikut ke dalam image
+.git
+Dockerfile
+docker-compose.yml
+*.md
